@@ -11,6 +11,7 @@ remaining_income = b - total_expenses
 savings_percentage = (remaining_income / b) * 100
 print("Remaining income: ", remaining_income)
 print("Savings percentage: ", savings_percentage)
+remove unnecessary 
 #Q.1. Take two numbers and print sum, difference, product and division. 
 a=8
 b=4
